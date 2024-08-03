@@ -8,7 +8,7 @@ This is a simple To-Do List application that allows users to add, mark as comple
 
 ### 1. Download the Project Files
 
-Download the project files from the repository, including `index.html`, `style.css`, and `images.zip`.
+Download the project files from the repository, and put them into a folder. Open that same folder into VS code. 
 
 ### 2. Install Dependencies
 
